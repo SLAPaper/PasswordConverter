@@ -38,7 +38,7 @@ Partial Class md5Calculator
         Me.TextBox_Input.Name = "TextBox_Input"
         Me.TextBox_Input.Size = New System.Drawing.Size(350, 99)
         Me.TextBox_Input.TabIndex = 0
-        Me.TextBox_Input.Text = "请输入需要计算md5值的字符串。"
+        Me.TextBox_Input.Text = "请输入需要计算哈希值的字符串。"
         '
         'Button1
         '
@@ -56,17 +56,20 @@ Partial Class md5Calculator
         Me.Label1.Location = New System.Drawing.Point(4, 149)
         Me.Label1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(155, 17)
+        Me.Label1.Size = New System.Drawing.Size(56, 17)
         Me.Label1.TabIndex = 2
-        Me.Label1.Text = "运算结果(md5,base64(*$))"
+        Me.Label1.Text = "运算结果"
         '
         'TextBox_Result
         '
+        Me.TextBox_Result.HideSelection = False
         Me.TextBox_Result.Location = New System.Drawing.Point(4, 173)
         Me.TextBox_Result.Margin = New System.Windows.Forms.Padding(4)
         Me.TextBox_Result.Multiline = True
         Me.TextBox_Result.Name = "TextBox_Result"
-        Me.TextBox_Result.Size = New System.Drawing.Size(350, 114)
+        Me.TextBox_Result.ReadOnly = True
+        Me.TextBox_Result.ScrollBars = System.Windows.Forms.ScrollBars.Vertical
+        Me.TextBox_Result.Size = New System.Drawing.Size(350, 256)
         Me.TextBox_Result.TabIndex = 0
         '
         'TableLayoutPanel1
@@ -90,7 +93,7 @@ Partial Class md5Calculator
         Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 42.0!))
         Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 20.0!))
         Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 101.0!))
-        Me.TableLayoutPanel1.Size = New System.Drawing.Size(358, 291)
+        Me.TableLayoutPanel1.Size = New System.Drawing.Size(358, 433)
         Me.TableLayoutPanel1.TabIndex = 3
         '
         'md5Calculator
@@ -98,7 +101,7 @@ Partial Class md5Calculator
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 17.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.AutoSize = True
-        Me.ClientSize = New System.Drawing.Size(378, 315)
+        Me.ClientSize = New System.Drawing.Size(378, 457)
         Me.Controls.Add(Me.TableLayoutPanel1)
         Me.Font = New System.Drawing.Font("微软雅黑", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(134, Byte))
         Me.Margin = New System.Windows.Forms.Padding(4)
