@@ -1,6 +1,6 @@
-﻿Public Class md5Calculator
+﻿Public Class Md5Calculator
 
-    Private Sub TextBox_Input_TextChanged(sender As Object, e As EventArgs) Handles TextBox_Input.TextChanged
+    Private Shared Sub TextBox_Input_TextChanged(sender As Object, e As EventArgs) Handles TextBox_Input.TextChanged
 
     End Sub
 
@@ -15,9 +15,9 @@
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        Dim input As String = Me.TextBox_Input.Text
-        Dim result As String = countMD5.getMd5Hash(input) + vbCrLf + vbCrLf + countMD5.getSHAHash(input)
-        Me.TextBox_Result.Text = result
-        Me.TextBox_Result.Focus()
+        Dim input As String = TextBox_Input.Text
+        Dim result As String = CountMd5.GetMd5Hash(input) + vbCrLf + vbCrLf + CountMd5.GetShaHash(input)
+        TextBox_Result.Text = result
+        TextBox_Result.Focus()
     End Sub
 End Class
