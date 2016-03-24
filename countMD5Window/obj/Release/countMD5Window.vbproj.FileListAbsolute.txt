@@ -12,3 +12,7 @@ F:\User Files\Documents\ProgrammingLearning\Visual Basic\countMD5Window\countMD5
 F:\User Files\Documents\ProgrammingLearning\Visual Basic\countMD5Window\countMD5Window\obj\Release\countMD5Window.exe
 F:\User Files\Documents\ProgrammingLearning\Visual Basic\countMD5Window\countMD5Window\obj\Release\countMD5Window.xml
 F:\User Files\Documents\ProgrammingLearning\Visual Basic\countMD5Window\countMD5Window\obj\Release\countMD5Window.pdb
+G:\User Files\Documents\Programming\Visual Basic\countMD5Window\countMD5Window\bin\Release\countMD5Window.exe.config
+G:\User Files\Documents\Programming\Visual Basic\countMD5Window\countMD5Window\obj\Release\countMD5Window.exe
+G:\User Files\Documents\Programming\Visual Basic\countMD5Window\countMD5Window\obj\Release\countMD5Window.xml
+G:\User Files\Documents\Programming\Visual Basic\countMD5Window\countMD5Window\obj\Release\countMD5Window.pdb
