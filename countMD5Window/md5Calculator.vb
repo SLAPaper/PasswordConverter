@@ -1,6 +1,6 @@
 ﻿Public Class Md5Calculator
 
-    Private Shared Sub TextBox_Input_TextChanged(sender As Object, e As EventArgs) Handles TextBox_Input.TextChanged
+    Private Sub TextBox_Input_TextChanged(sender As Object, e As EventArgs) Handles TextBox_Input.TextChanged
 
     End Sub
 
