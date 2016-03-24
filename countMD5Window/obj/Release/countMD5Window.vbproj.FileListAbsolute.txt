@@ -16,3 +16,14 @@ G:\User Files\Documents\Programming\Visual Basic\countMD5Window\countMD5Window\b
 G:\User Files\Documents\Programming\Visual Basic\countMD5Window\countMD5Window\obj\Release\countMD5Window.exe
 G:\User Files\Documents\Programming\Visual Basic\countMD5Window\countMD5Window\obj\Release\countMD5Window.xml
 G:\User Files\Documents\Programming\Visual Basic\countMD5Window\countMD5Window\obj\Release\countMD5Window.pdb
+G:\User Files\Documents\Programming\Visual Basic\countMD5Window\countMD5Window\bin\Release\countMD5Window.exe.manifest
+G:\User Files\Documents\Programming\Visual Basic\countMD5Window\countMD5Window\bin\Release\countMD5Window.application
+G:\User Files\Documents\Programming\Visual Basic\countMD5Window\countMD5Window\bin\Release\countMD5Window.exe
+G:\User Files\Documents\Programming\Visual Basic\countMD5Window\countMD5Window\bin\Release\countMD5Window.pdb
+G:\User Files\Documents\Programming\Visual Basic\countMD5Window\countMD5Window\bin\Release\countMD5Window.xml
+G:\User Files\Documents\Programming\Visual Basic\countMD5Window\countMD5Window\obj\Release\countMD5Window.vbprojResolveAssemblyReference.cache
+G:\User Files\Documents\Programming\Visual Basic\countMD5Window\countMD5Window\obj\Release\countMD5Window.Md5Calculator.resources
+G:\User Files\Documents\Programming\Visual Basic\countMD5Window\countMD5Window\obj\Release\countMD5Window.Resources.resources
+G:\User Files\Documents\Programming\Visual Basic\countMD5Window\countMD5Window\obj\Release\countMD5Window.vbproj.GenerateResource.Cache
+G:\User Files\Documents\Programming\Visual Basic\countMD5Window\countMD5Window\obj\Release\countMD5Window.exe.manifest
+G:\User Files\Documents\Programming\Visual Basic\countMD5Window\countMD5Window\obj\Release\countMD5Window.application
